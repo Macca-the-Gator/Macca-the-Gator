@@ -1,7 +1,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/Macca-the-Gator/Macca-the-Gator/main/assets/img/profile_vc.png" width="190" style="border-radius: 15px; border: 4px solid #00FF41; display: inline-block; vertical-align: top;">
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Macca-the-Gator&layout=compact&theme=tokyonight&title_color=00FF41&hide_border=true" style="display: inline-block; vertical-align: top;" />
+  
 </p>
 
 <!-- **************************************** GitHub Stats **************************************** -->
